@@ -1,0 +1,8 @@
+{
+  "name": "Penang Days",
+  "description": "A cozy low-poly 3D slice-of-life game set in a traditional two-story heritage shophouse and the streets of George Town, Penang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
